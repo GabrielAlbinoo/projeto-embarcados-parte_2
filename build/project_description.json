@@ -1,7 +1,7 @@
 {
     "version":            "1.1",
     "project_name":       "projeto-embarcados-parte_2",
-    "project_version":    "1",
+    "project_version":    "6c71d4f-dirty",
     "project_path":       "C:/Users/gabri/projeto-embarcados-parte_2",
     "idf_path":           "C:/Users/gabri/esp/v5.2/esp-idf",
     "build_dir":          "C:/Users/gabri/projeto-embarcados-parte_2/build",
