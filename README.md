@@ -91,6 +91,9 @@ Este projeto fornece uma biblioteca para controlar servos motores usando o ESP32
 ### Diagrama de Blocos
 ![Diagrama](Diagprog.png)
 
+### Esquemático do Hardware
+<img style="width: 80%" src="https://github.com/user-attachments/assets/cad682db-b37a-47ef-9ee1-ebca67dc34c4">
+
 ## Uso
 
 O exemplo `main.c` demonstra como configurar e controlar dois servos conectados aos pinos GPIO 25 e 26 do ESP32. O código movimenta os servos para um ângulo aleatório entre 0 e 180 graus a cada segundo.
