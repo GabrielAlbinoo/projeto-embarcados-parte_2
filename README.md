@@ -291,6 +291,8 @@ Obtém o ângulo atual do servo. (Nota: A funcionalidade de obtenção de ângul
 
 - `esp_err_t`: Código de erro. `ESP_OK` em caso de sucesso.
 
+<hr>
+
 #### Equipe:
 
 - Álisson Leandro de Souza Silva;
@@ -305,8 +307,10 @@ Obtém o ângulo atual do servo. (Nota: A funcionalidade de obtenção de ângul
   
 - Sara Aymê Marinho Gaspar.
 
-│   └── main.c
-└── README.md                  This is the file you are currently reading
-```
-Additionally, the sample project contains Makefile and component.mk files, used for the legacy Make based build system. 
-They are not used or needed when building with CMake and idf.py.
+#### Professor: 
+
+- Alexandre Sales Vasconcelos.
+
+#### Disciplina: 
+
+- Sistemas Embarcados.
