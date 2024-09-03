@@ -88,6 +88,8 @@ Este projeto fornece uma biblioteca para controlar servos motores usando o ESP32
    ```bash
    idf.py monitor
     ```
+### Diagrama de Blocos
+![Diagrama](docs/Diagprog.png)
 
 ## Uso
 
