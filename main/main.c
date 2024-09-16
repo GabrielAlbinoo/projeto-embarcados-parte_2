@@ -18,6 +18,13 @@ void app_main(void)
         .max_angle = 180
     };
 
+    ServoConfig servo_3 = {
+        .gpio_num = 27,
+        .pwm_freq = 50,
+        .min_angle = 0,
+        .max_angle = 180
+    };
+
     esp_err_t ret = servo_init(&servo_1);
     if (ret != ESP_OK)
     {
@@ -31,6 +38,8 @@ void app_main(void)
         printf("Falha ao inicializar o servo 2: %s", esp_err_to_name(ret));
         return;
     }
+
+    ret = servo_init(&servo_3);
 
     while (1)
     {

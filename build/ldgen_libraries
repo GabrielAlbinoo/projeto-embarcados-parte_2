@@ -62,3 +62,5 @@ C:/Users/gabri/projeto-embarcados-parte_2/build/esp-idf/perfmon/libperfmon.a
 C:/Users/gabri/projeto-embarcados-parte_2/build/esp-idf/spiffs/libspiffs.a
 C:/Users/gabri/projeto-embarcados-parte_2/build/esp-idf/wifi_provisioning/libwifi_provisioning.a
 C:/Users/gabri/projeto-embarcados-parte_2/build/esp-idf/main/libmain.a
+C:/Users/gabri/projeto-embarcados-parte_2/build/esp-idf/servo_hw/libservo_hw.a
+C:/Users/gabri/projeto-embarcados-parte_2/build/esp-idf/servo_tools/libservo_tools.a
